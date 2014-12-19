@@ -54,7 +54,7 @@
     <jbossws.spi.version>3.0.0-SNAPSHOT</jbossws.spi.version>
     <jbossws.common.version>3.0.0-SNAPSHOT</jbossws.common.version>
     <jboss.msc.version>1.2.2.Final</jboss.msc.version>
-    <wildfly.version>8.1.0.CR2</wildfly.version>
+    <wildfly.version>8.1.0.Final</wildfly.version>
     <wildfly.security-manager.version>1.0.0.Final</wildfly.security-manager.version>
     <marshalling.river.version>1.4.5.Final</marshalling.river.version>
     <remote.naming.version>2.0.1.Final</remote.naming.version>
